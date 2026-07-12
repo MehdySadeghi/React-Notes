@@ -176,9 +176,9 @@ The goal is to explain React concepts as clearly and simply as possible while ke
 | Lifting State Up | ✅ |
 | useState | ✅ |
 | useEffect | ✅ |
-| useRef | ⏳ |
+| useRef | ✅ |
 | useReducer | ⏳ |
-| Custom Hooks | ⏳ |
+| Custom Hooks | ✅ |
 | Context API | ⏳ |
 | React Router | ⏳ |
 | Performance Optimization | ⏳ |
